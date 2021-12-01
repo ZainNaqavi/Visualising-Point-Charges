@@ -1,6 +1,8 @@
 # Visualising-Point-Charges
 A visualisation of electric field and electric potential for point charges in different arrangements.
 
+*Archived project from 2019*
+
 ## Run the code in your browser
 Click this button to run the code in your browser:  
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ZainNaqavi/Visualising-Point-Charges/main?filepath=Plotting_Charges_and_Electric_Fields.ipynb)
